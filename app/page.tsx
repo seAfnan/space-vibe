@@ -1,4 +1,3 @@
-import Image from "next/image";
 import SpaceVibe from "./components/SpaceVibe";
 
 export default function Home() {

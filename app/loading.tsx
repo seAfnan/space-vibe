@@ -1,5 +1,4 @@
 "use client";
-import React, { useContext } from "react";
 
 const Loading = () => {
   return (
